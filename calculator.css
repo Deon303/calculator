@@ -1,0 +1,35 @@
+body{
+background-color:orange;
+text-align:center;
+}
+.wrap{
+background:black;
+width:400px;
+margin:auto;
+height:auto;
+padding:16px;
+}
+input[type=button]{
+width:80px;
+padding:10px;
+font-size:23px;
+
+}
+input[type=text]{
+width:300px;
+border-radius:5px;
+padding:10px;
+font-size:22px;
+font-weight:bold;
+margin-top:30px;
+}
+.del{
+width:100px;
+}
+input.button{
+display:inline block;
+}
+
+input.button:hover{
+background: blue;
+}
